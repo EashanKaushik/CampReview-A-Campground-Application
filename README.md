@@ -28,11 +28,14 @@ Our application is hosted using heroku and we have used GroomIDE as our developm
 
 Class Diagram 
 
-![image](https://user-images.githubusercontent.com/50113394/148662688-6b437b0e-007b-42f6-ae06-ad6ff15e1f3d.png)
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/50113394/148662688-6b437b0e-007b-42f6-ae06-ad6ff15e1f3d.png">
+</p>
 
 State Diagram
-
-![image](https://user-images.githubusercontent.com/50113394/148662695-bb1b84df-4a38-4162-b071-4eee90b057c7.png)
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/50113394/148662695-bb1b84df-4a38-4162-b071-4eee90b057c7.png">
+</p>
 
 ## Steps to Deploy
 
@@ -67,29 +70,37 @@ mongoose.set('useCreateIndex', true);
 ## Results
 
 ### Database Connectivity
-
-![image](https://user-images.githubusercontent.com/50113394/148662780-907630f2-7e7b-4d21-98f2-567c3161e3b4.png)
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/50113394/148662780-907630f2-7e7b-4d21-98f2-567c3161e3b4.png">
+</p>
 
 Database
-
-![image](https://user-images.githubusercontent.com/50113394/148662784-8e33c3da-1d9f-4c58-b0e5-772305ccb935.png)
-![image](https://user-images.githubusercontent.com/50113394/148662787-193da7df-4080-4325-9138-0c4af3097fcb.png)
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/50113394/148662784-8e33c3da-1d9f-4c58-b0e5-772305ccb935.png">
+</p>
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/50113394/148662787-193da7df-4080-4325-9138-0c4af3097fcb.png">
+</p>
 
 Users
-
-![image](https://user-images.githubusercontent.com/50113394/148662790-b4a3dc39-93ba-4299-83ef-950cbe61781d.png)
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/50113394/148662790-b4a3dc39-93ba-4299-83ef-950cbe61781d.png">
+</p>
 
 Campgrounds
-
-![image](https://user-images.githubusercontent.com/50113394/148662793-2fda27de-eeed-4e2b-b8f1-c19b8d5ce519.png)
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/50113394/148662793-2fda27de-eeed-4e2b-b8f1-c19b8d5ce519.png">
+</p>
 
 Reviews
-
-![image](https://user-images.githubusercontent.com/50113394/148662799-2a88b19f-b45a-4066-8a3e-71ad6dadd710.png)
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/50113394/148662799-2a88b19f-b45a-4066-8a3e-71ad6dadd710.png">
+</p>
 
 Comments
-
-![image](https://user-images.githubusercontent.com/50113394/148662801-1725382c-c452-447e-bcf0-4e19607e8233.png)
+<p align='center'>
+    <img src="https://user-images.githubusercontent.com/50113394/148662801-1725382c-c452-447e-bcf0-4e19607e8233.png">
+</p>
 
 ### Output
 ![image](https://user-images.githubusercontent.com/50113394/148662748-96edfa7e-bac0-48af-bfe9-065cc927a072.png)
