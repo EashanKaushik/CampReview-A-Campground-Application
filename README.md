@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Yelp Camp is a more complex application built from scratch using the latest website creating tools. The project aims to create a fully functional website with UI application using JavaScript. Innovative styling will be done by CSS3 and an easy index HTML code created using HTML5. It focuses on using NodeJS as the backend tool as the website will be heavily integrated with JavaScript and also use Jquery. The authentication part is handled with PassportJs, I also used a non relationnal database: MongoDB. Finally, all geolocations and maps come from the Google Map API. You can inspect the package.json's file to check all the npm modules used.
+CampReview is a more complex application built from scratch using the latest website creating tools. The project aims to create a fully functional website with UI application using JavaScript. Innovative styling will be done by CSS3 and an easy index HTML code created using HTML5. It focuses on using NodeJS as the backend tool as the website will be heavily integrated with JavaScript and also use Jquery. The authentication part is handled with PassportJs, I also used a non relationnal database: MongoDB. Finally, all geolocations and maps come from the Google Map API. You can inspect the package.json's file to check all the npm modules used.
 Our application is hosted using heroku and we have used GroomIDE as our development environment. This entire project is made on cloud infrastructure as a result we have used MongoDB on cloud known as MongoDB Atlas.
 
 ## Modules/Features
